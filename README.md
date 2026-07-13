@@ -2,9 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=190&section=header&text=zishounekonanoda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20software%20and%20Minecraft%20experiences&descAlignY=58&descSize=16)
 
-### つくることが好きな開発者です。
+### よわよわな開発者です
 
-Web、デスクトップアプリ、Minecraftの体験づくりまで、使っていて楽しいものを形にしています。
+Web、ちょっとしたデスクトップアプリ、Minecraftのplづくりまで、「自分が使う・楽しめる」を第一に気ままに開発してます。
+※開発においてはAIを使用しています。(Claude Code、ChatGPT Codex)
 
 [![GitHub](https://img.shields.io/badge/GitHub-zishounekonanoda-181717?style=for-the-badge&logo=github)](https://github.com/zishounekonanoda)
 
@@ -14,10 +15,19 @@ Web、デスクトップアプリ、Minecraftの体験づくりまで、使っ�
 
 | Project | About |
 | --- | --- |
-| [yt-liquid-downloader](https://github.com/zishounekonanoda/yt-liquid-downloader) | Electron + Reactで作った、Liquid Glass風デザインのyt-dlpダウンローダー |
-| [AdvancedMusicBox](https://github.com/zishounekonanoda/AdvancedMusicBox) | Minecraft Paper／Spigot向けのジュークボックス・NBS音楽プレイヤー |
-| [MinecraftElytraOrbit](https://github.com/zishounekonanoda/MinecraftElytraOrbit) | Minecraft内で軌道エフェクトを作成・カスタマイズできるプラグイン |
-| [enka-cafe-baru](https://github.com/zishounekonanoda/enka-cafe-baru) | enka_cafe_baru のWebサイト |
+| [enka-cafe-baru](https://github.com/zishounekonanoda/enka-cafe-baru) | enka_cafe_baru (向ヶ丘遊園駅近くの飲食店) のWebサイト。(enka-cafe-baru.com) |
+| [AdvancedMusicBox](https://github.com/zishounekonanoda/AdvancedMusicBox) | Minecraft Paper／Spigot向けのジュークボックスを使用したNBS音楽プレイヤー (更新停止中) |
+| [MinecraftElytraOrbit](https://github.com/zishounekonanoda/MinecraftElytraOrbit) | Minecraft内で軌道エフェクトを作成・カスタマイズできるプラグイン (更新停止中) |
+
+## 開発中・リポジトリ非公開
+
+| Project | About |
+| --- | --- |
+| STA BELL STUDIO すてべる(開発中) | JRの列車システムUIをインスパイアした、発車メロディ制御ソフト |
+| MCrun(マイクラ乱) (開発中・非公開) | 多種多様な武器で敵を切り刻め！高難易度無双・ローグライクゲーム(Minecraft Plugin) |
+| NekoCustom items(nci) (非公開) | MCrunの必須pl。単体でもブキ追加plとして動作する。|
+
+上記非公開のうち、MCrunとnciはNehaverseというマイクラサーバー用に開発したplです。
 
 ## What I enjoy building
 
