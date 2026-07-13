@@ -5,7 +5,7 @@
 ### よわよわな開発者です
 
 Web、ちょっとしたデスクトップアプリ、Minecraftのpluginづくりまで、「自分が楽しめる」を第一として気ままに開発してます。
-※開発においてはAIを使用しています。(Claude Code、ChatGPT Codex)\n
+※開発においてはAIを使用しています。(Claude Code、ChatGPT Codex)
 自由の森学園高等学校 在籍
 
 [![GitHub](https://img.shields.io/badge/GitHub-zishounekonanoda-181717?style=for-the-badge&logo=github)](https://github.com/zishounekonanoda)
