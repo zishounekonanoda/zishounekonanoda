@@ -19,6 +19,7 @@ Web、ちょっとしたデスクトップアプリ、Minecraftのpluginづく�
 | [enka-cafe-baru](https://github.com/zishounekonanoda/enka-cafe-baru) | enka_cafe_baru (向ヶ丘遊園駅近くの飲食店) のWebサイト。(enka-cafe-baru.com) |
 | [AdvancedMusicBox](https://github.com/zishounekonanoda/AdvancedMusicBox) | Minecraft Paper／Spigot向けのジュークボックスを使用したNBS音楽プレイヤー (更新停止中) |
 | [MinecraftElytraOrbit](https://github.com/zishounekonanoda/MinecraftElytraOrbit) | Minecraft内で軌道エフェクトを作成・カスタマイズできるプラグイン (更新停止中) |
+| [Irodori/彩](https://github.com/zishounekonanoda/irodori) | Twitter(旧X)において、テーマを変更して自分好みの色合いに。色彩論を利用した14種の初期プリセットと自分の色合いを保存できるプリセット保存。(日英対応) |
 
 ## 開発中・リポジトリ非公開
 
@@ -28,7 +29,7 @@ Web、ちょっとしたデスクトップアプリ、Minecraftのpluginづく�
 | MCrun(マイクラ乱) (開発中・非公開) | 多種多様な武器で敵を切り刻め！高難易度無双・ローグライクゲーム(Minecraft Plugin) |
 | NekoCustom items(nci) (非公開) | MCrunの必須pl。単体でもブキ追加plとして動作する。|
 
-上記非公開のうち、MCrunとnciはNehaverseというマイクラサーバー用に開発したplです。
+上記非公開のうち、MCrunとnciはNehaverseというマイクラサーバー用に開発したplです。https://www.wp.nehaverse.net
 
 ## What I enjoy building
 
