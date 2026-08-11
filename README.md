@@ -24,7 +24,7 @@ Web、ちょっとしたデスクトップアプリ、Minecraftのpluginづく�
 
 | Project / PR | Contribution |
 | --- | --- |
-| [NoteBlockAPI #130](https://github.com/koca2000/NoteBlockAPI/pull/130) | 高テンポのNBS再生で音符が欠落する既知問題を調査。再生スケジューラを再設計し、回帰テストを追加しました。(PRとして提案中) |
+| [NoteBlockAPI #130](https://github.com/koca2000/NoteBlockAPI/pull/130) | 高テンポNBSでの音符欠落や環境によるテンポ低下を調査し、再生スケジューラを再設計。10オクターブ再生時の負ピッチ例外も修正し、回帰テストを追加しました。(PRとして提案中) |
 
 ## 開発中・リポジトリ非公開
 
