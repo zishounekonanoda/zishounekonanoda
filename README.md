@@ -31,7 +31,7 @@ Web、ちょっとしたデスクトップアプリ、Minecraftのpluginづく�
 | Project | About |
 | --- | --- |
 | STA BELL STUDIO すてべる(開発中) | JRの列車システムUIをインスパイアした、発車メロディ制御ソフト | (Boothにて販売予定)
-| MCrun(マイクラ乱) (開発中・非公開) | 多種多様な武器で敵を切り刻め！高難易度無双・ローグライクゲーム(Minecraft Plugin) |
+| Abyss Tide(アビスタイド) (開発中・非公開) | 多種多様な武器で敵を切り刻め！高難易度無双・ウェーブディフェンス(Minecraft Plugin・Nehaverse) |
 | NekoCustom items(nci) (非公開) | MCrunの必須pl。単体でもブキ追加plとして動作する。|
 
 上記非公開のうち、MCrunとnciはNehaverseというマイクラサーバー用に開発したplです。https://www.wp.nehaverse.net
