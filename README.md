@@ -20,6 +20,12 @@ Web、ちょっとしたデスクトップアプリ、Minecraftのpluginづく�
 | [MinecraftElytraOrbit](https://github.com/zishounekonanoda/MinecraftElytraOrbit) | Minecraft内で軌道エフェクトを作成・カスタマイズできるプラグイン (更新停止中) |
 | [Irodori/彩](https://github.com/zishounekonanoda/irodori) | Twitter(旧X)において、テーマを変更して自分好みの色合いに。色彩論を利用した14種の初期プリセットと自分の色合いを保存できるプリセット保存。(日英対応) |
 
+## Open Source Contributions
+
+| Project / PR | Contribution |
+| --- | --- |
+| [NoteBlockAPI #130](https://github.com/koca2000/NoteBlockAPI/pull/130) | 高テンポのNBS再生で音符が欠落する既知問題を調査。再生スケジューラを再設計し、回帰テストを追加しました。(Draft PR) |
+
 ## 開発中・リポジトリ非公開
 
 | Project | About |
